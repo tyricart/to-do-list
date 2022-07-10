@@ -2,4 +2,4 @@
 
 See the [demo link]() on firebase.
 
-![demo screen shot]()
+![demo screen shot](/--demo.png)
